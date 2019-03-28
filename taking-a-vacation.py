@@ -1,3 +1,5 @@
+#Hard day at work? Rough day at school? Take a load off with a programming vacation!
+
 def hotel_cost(nights):
   return 140 * nights
 
